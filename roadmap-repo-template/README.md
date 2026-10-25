@@ -6,7 +6,7 @@ Master plan: 8 phases | 12–18 months | 10–15 hrs/week.
 ## Status
 - **Current phase:** Phase 1 — Computer, Networking & CLI Foundations (Weeks 1–6)
 - **Hours goal/week:** 10
-- **Started:** ____ / ____ / ______
+- **Started:** __24__ / __10__ / ___2026___
 
 ## Progress Tracker
 | Phase | Status | Weeks Target |
